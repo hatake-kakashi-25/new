@@ -1,0 +1,10 @@
+flask
+pyotp
+flask-login
+sqlalchemy
+flask-bootstrap4
+flask_sqlAlchemy
+gunicorn
+psycopg2-binary
+Flask-Migrate
+stopwatch.py
